@@ -1,4 +1,4 @@
-# code_rally_week_2
+# Code Rally Week 2
 IEEE Sudan code rally week 2 jupyter notebooks
 
 First Day (Basic Data Structures): 
